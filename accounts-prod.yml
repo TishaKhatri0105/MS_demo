@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related prod APIs"
+  contactDetails:
+    name: "Tisha Khatri - Prod Owner"
+    email: "tishakhatriProd@eazybytes"
+  onCallSupport:
+    - "9876543211"
+    - "1234567891"

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs"
+  contactDetails:
+    name: "Tisha Khatri - QA Lead"
+    email: "tishakhatriQA@eazybytes"
+  onCallSupport:
+    - "9876543212"
+    - "1234567892"
