@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Bank loans related local APIs"
+  contactDetails:
+    name: "Aryansh Sharma - Developer"
+    email: "aryanshsharma@eazybytes"
+  onCallSupport:
+    - "765432103"
+    - "345678903"

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Bank loans related QA APIs"
+  contactDetails:
+    name: "Aryansh Sharma - QA Lead"
+    email: "aryanshsharmaQA@eazybytes"
+  onCallSupport:
+    - "765432102"
+    - "345678902"

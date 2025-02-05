@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Bank cards related local APIs"
+  contactDetails:
+    name: "Shalabh Sharma - Developer"
+    email: "shalabhsharma@eazybytes"
+  onCallSupport:
+    - "876543213"
+    - "234567893"
