@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Bank cards related QA APIs"
+  contactDetails:
+    name: "Shalabh Sharma - QA Lead"
+    email: "shalabhsharmaQA@eazybytes"
+  onCallSupport:
+    - "876543212"
+    - "234567892"
