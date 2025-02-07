@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Bank loans related prod APIs"
+  message: "Welcome to Bank loans related production APIs"
   contactDetails:
     name: "Aryansh Sharma - Prod Owner"
     email: "{cipher}41709653caea5b34a07be370e827e862ef6d949e109e276e743f9eadd294c8cac76515ecf0ae6020e7564d02e3b77300"
